@@ -1,0 +1,7 @@
+hash: 27bba883f11bddb587fa3c4c424239d2dd3a496cf23122977fb59d28d639895b
+updated: 2018-04-22T22:35:25.142182348+01:00
+imports:
+- name: github.com/thingful/zenroom-go
+  version: 852c0bc913d280be7c705493e3b72b7a3ef68b86
+  vcs: git
+testImports: []
